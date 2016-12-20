@@ -1,4 +1,4 @@
-# Long-term_time_series_Individual_companies_Economic_Research
+# long-term_time_series_individual_companies_economic_research
 　【和歌山県　長期時系列　個人企業経済調査です。】
 ◆個人経営の事業所（個人企業）の経営の実態を明らかにして、個人企業の所得の推計資料や個人企業に関する施策立案のための基礎資料を得ることを目的にした調査です。
  調査には、「 動向調査」と「構造調査」があります。
